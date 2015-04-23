@@ -1,0 +1,1 @@
+Web Media Player is an open source media player built on Flash/AIR technologies. It will consist of both an inline player and a stand-alone desktop player.
